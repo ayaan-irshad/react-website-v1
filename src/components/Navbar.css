@@ -18,12 +18,16 @@
   max-width: 1500px;
 }
 
-.logo_conatainer {
+.logo_container {
   height: 100%;
 }
 
-.logo_img_conatainer {
+.logo_img_container {
   height: 100%;
+}
+
+.logo {
+  position: relative;
 }
 
 .fa-typo3 {
@@ -81,7 +85,7 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 90vh;
+    height: 50vh;
     position: absolute;
     top: 80px;
     left: -100%;
@@ -111,10 +115,9 @@
   }
 
   .navbar-logo {
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
-    transform: translate(25%, 50%);
   }
 
   .menu-icon {

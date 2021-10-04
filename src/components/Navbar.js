@@ -28,14 +28,10 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <div class="logo_container">
+          <div className="logo_container">
             <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-              <div class="logo_img_container">
-                <img
-                  src="..\..\public\img\logo.png"
-                  class="logo"
-                  alt="logo main"
-                />
+              <div className="logo_img_container">
+                <img src="img\logo.png" className="logo" alt="logo main" />
               </div>
             </Link>
           </div>
