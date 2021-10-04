@@ -29,6 +29,14 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+            <div class="logo_container">
+              FMS
+              <img
+                src="..\..\public\img\logo.png"
+                class="logo"
+                alt="logo main"
+              />
+            </div>
             FMS
             <img src="..\..\public\img\logo.png" />
           </Link>
