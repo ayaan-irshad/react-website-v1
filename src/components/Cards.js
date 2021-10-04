@@ -16,7 +16,7 @@ function Cards() {
               path='/services'
             />
             <CardItem
-              src='images/img-2.jpg'
+              src='images/img-2.jpeg'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
               path='/services'
@@ -24,13 +24,13 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
+              src='images/img-3.jpeg'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
               path='/services'
             />
             <CardItem
-              src='images/img-4.jpg'
+              src='images/img-4.jpeg'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
               path='/products'
