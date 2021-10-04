@@ -8,7 +8,7 @@ img {
 
 .hero-container {
   /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
-  height: 100vh;
+  height: 85vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -34,10 +34,6 @@ img {
 
 .hero-btns {
   margin-top: 32px;
-}
-
-.hero-btns .btn {
-  margin: 6px;
 }
 
 .fa-play-circle {
