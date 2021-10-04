@@ -32,12 +32,11 @@ function Navbar() {
             <div class="logo_container">
               FMS
               <img
-                src="..\..\public\img\logo.png"
+                src="https://source.unsplash.com/user/erondu/1600x900"
                 class="logo"
                 alt="logo main"
               />
             </div>
-            FMS
             <img src="..\..\public\img\logo.png" />
           </Link>
           <div className="menu-icon" onClick={handleClick}>
