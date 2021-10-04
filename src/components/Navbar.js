@@ -29,7 +29,7 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            FMS Freight Brokers Inc.
+            FMS
             <i class='fa-solid fa-truck-container' />
           </Link>
           <div className='menu-icon' onClick={handleClick}>
