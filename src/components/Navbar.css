@@ -19,14 +19,8 @@
 }
 
 img {
-  color: #fff;
-  justify-self: start;
-  margin-left: 20px;
-  cursor: pointer;
-  text-decoration: none;
-  font-size: 2rem;
-  display: flex;
-  align-items: center;
+  width: 100%;
+  height: 100%;
 }
 
 .fa-typo3 {
