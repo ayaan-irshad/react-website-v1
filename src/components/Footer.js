@@ -8,12 +8,20 @@ function Footer() {
     <div className="footer-container">
       <div className="footer">
         <h1>Contact Us</h1>
-        <span>Email</span> <i class="far fa-envelope"></i>:
-        fmsfreightbrokers@gmail.com <br></br>
-        <span>Phone</span>
-        <i class="fas fa-phone"></i> : 916923945 <br></br>
-        <span>Adress</span> <i class="fas fa-map-marker-alt"></i>: PO bocx 3309,
-        Sacrememto , California 1233 <br></br>
+        <ul>
+          <li>
+            <span>Email</span> <i class="far fa-envelope"></i> :
+            fmsfreightbrokersinc@gmail.com{" "}
+          </li>
+          <li>
+            {" "}
+            <span>Phone</span> <i class="fas fa-phone"></i> : 916.280.4415{" "}
+          </li>
+          <li>
+            <span>Adress</span> <i class="fas fa-map-marker-alt"></i> : PO BOX
+            292272, SACRAMENTO, CA 95829{" "}
+          </li>
+        </ul>
       </div>
     </div>
   );
