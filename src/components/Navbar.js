@@ -32,12 +32,11 @@ function Navbar() {
             <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
               <div class="logo_img_container">
                 <img
-                  src="https://source.unsplash.com/user/erondu/1600x900"
+                  src="..\..\public\img\logo.png"
                   class="logo"
                   alt="logo main"
                 />
               </div>
-              <img src="..\..\public\img\logo.png" />
             </Link>
           </div>
           <div className="menu-icon" onClick={handleClick}>
