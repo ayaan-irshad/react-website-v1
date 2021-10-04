@@ -19,7 +19,11 @@
 }
 
 .logo_conatainer {
-  position: relative;
+  height: 100%;
+}
+
+.logo_img_conatainer {
+  height: 100%;
 }
 
 .logo {
