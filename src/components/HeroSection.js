@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <img src='/img/img-1.jpeg'  />
+      <img src='/img/img-1.jpg'  />
       <h1>Best in Class Service</h1>
       <p>What are you waiting for?</p>
       <div className='hero-btns'>
