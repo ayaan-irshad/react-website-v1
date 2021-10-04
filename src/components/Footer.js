@@ -18,7 +18,7 @@ function Footer() {
             <span>Phone</span> <i class="fas fa-phone"></i> : 916.280.4415{" "}
           </li>
           <li>
-            <span>Adress</span> <i class="fas fa-map-marker-alt"></i> : PO BOX
+            <span>Address</span> <i class="fas fa-map-marker-alt"></i> : PO BOX
             292272, SACRAMENTO, CA 95829{" "}
           </li>
         </ul>
