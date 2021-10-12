@@ -7,6 +7,11 @@
   justify-content: center;
 }
 
+a{
+  
+  color: yellowgreen;
+}
+
 span,
 i {
   color: rgb(163, 163, 245);
@@ -28,3 +33,4 @@ li {
 
 @media screen and (max-width: 768px) {
 }
+

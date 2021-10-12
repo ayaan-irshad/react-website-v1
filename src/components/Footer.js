@@ -12,7 +12,7 @@ function Footer() {
           <li>
             <span>Email</span> <i class="far fa-envelope"></i> :
             fmsfreightbrokersinc@gmail.com{" "}
-            <a href="mailto:fmsfreightbrokersinc@gmail.com">Send email</a>
+            <a href="mailto:fmsfreightbrokersinc@gmail.com">Get Quote</a>
             
           </li>
           <li>
