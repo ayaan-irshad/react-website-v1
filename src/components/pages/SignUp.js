@@ -2,7 +2,10 @@ import React from "react";
 import "../../App.css";
 
 export default function SignUp() {
-  return (   <ul>
+  return ( 
+   <h4> CEO : Miss Saeeda Khanam</h4>
+  
+  <ul>
               <li><a href="mailto:fmsfreightbrokersinc@gmail.com">Get Quote</a>
             </li>
               <li>
