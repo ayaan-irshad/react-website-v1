@@ -3,11 +3,13 @@ import "../../App.css";
 
 export default function SignUp() {
   return (   <ul>
+              <li><a href="mailto:fmsfreightbrokersinc@gmail.com">Get Quote</a>
+            </li>
               <li>
                 <span>Email</span> <i class="far fa-envelope"></i> :
                 fmsfreightbrokersinc@gmail.com{" "}
-                <a class="btn btn--primary" href="mailto:fmsfreightbrokersinc@gmail.com">Get Quote</a>
                 
+               
               </li>
               <li>
                 {" "}
