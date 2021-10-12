@@ -12,6 +12,8 @@ function Footer() {
           <li>
             <span>Email</span> <i class="far fa-envelope"></i> :
             fmsfreightbrokersinc@gmail.com{" "}
+            <a href="mailto:fmsfreightbrokersinc@gmail.com">Send email</a>
+            
           </li>
           <li>
             {" "}
