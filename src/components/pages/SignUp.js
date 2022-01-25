@@ -8,9 +8,7 @@ export default function SignUp() {
         {" "}
         <h4> Sales and Logistics: Farhad Mirza</h4>{" "}
       </li>
-      <li>
-        <a href="mailto:accounting@fmsfreightbrokersinc.com">Get Quote</a>
-      </li>
+
       <li>
         <span>Email</span> <i class="far fa-envelope"></i> :
         farhad@fmsfreightbrokersinc.com{" "}
