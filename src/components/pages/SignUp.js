@@ -6,12 +6,12 @@ export default function SignUp() {
     <ul>
       <li>
         {" "}
-        <h4> Sales and Logistics: Farhad Mirza</h4>{" "}
+        <h4> Sales and Logistics: Farhad Mirza (MC #1297291)</h4>{" "}
       </li>
 
       <li>
         {" "}
-        <h4> MC #1297291</h4>{" "}
+        <h4> </h4>{" "}
       </li>
 
       <li>
